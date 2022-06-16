@@ -25,4 +25,6 @@ class EmotionTable extends React.Component {
         }
     
 }
+
+
 export default EmotionTable;
